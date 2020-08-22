@@ -27,9 +27,6 @@ export const StyledPaper = styled(Paper)`
     margin: 20px;
     padding: 5px;
     width: ${props => props.width}
-    //.MuiTableCell-head{
-    //    fontWeight:900;
-    //}
 `
 
 export const StyledHeader = styled.div`
